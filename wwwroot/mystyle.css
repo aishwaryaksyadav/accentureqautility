@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+.header {
+    padding: 1px;
+    text-align: center;
+    background: #1abc9c;
+    color: black;
+}
+
+.Clicks {
+  background:rgb(217, 217, 217);
+   padding: 10px 20px;
+  font-weight: normal;
+   display: block;
+   
+}
+
+.Form{
+  background: rgb(217, 217, 217);
+    padding: 10px 20px;
+ font-weight: normal;
+  
+}
+
+.Video{
+  background: rgb(217, 217, 217);
+  padding: 10px 20px;
+  font-weight: normal;
+  
+}
+
+.PDP{
+  background: rgb(217, 217, 217);
+   padding: 10px 20px;
+  font-weight: normal;
+}
+.Custom{
+  background: rgb(217, 217, 217);
+  padding: 10px 20px;
+  font-weight: normal;
+}
+.footer {
+     padding: 1px;
+    text-align: center;
+    font-style: italic;
+    background: #1abc9c;
+    color: black;
+}
